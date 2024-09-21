@@ -15,7 +15,21 @@ I'm passionate about music and IT tech things, and I have experience in IT suppo
 ## **Get in Touch**
 You can reach me via [alexleman78@gmail.com](mailto:alexleman78@gmail.com) 
 
-!(C:\Users\al90282\OneDrive - Acceo Solutions Inc\Pictures\guitars.png)
+
+# Welcome to My Website
+
+This is a personal static website built with MkDocs.
+
+## External Links
+
+- <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Visit Google</a>
+- <a href="https://github.com/aleman78" target="_blank" rel="noopener noreferrer">Check my GitHub Profile</a>
+
+
+
+
+
+
 
 
 
